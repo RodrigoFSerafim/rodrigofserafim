@@ -28,6 +28,12 @@
 <div align="center">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigofserafim&show_icons=true&locale=en&theme=radical" alt="rodrigofserafim" /></p>
 </div>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofserafim&theme=radical" />
+  </a>
+</div>
+
 
 <div>
   <h3 align="left">Languages and Tools:</h3>
