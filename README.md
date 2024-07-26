@@ -1,14 +1,15 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00009C&center=true&vCenter=true&random=false&width=524&lines=Hello+World!" alt="Typing SVG">
+  </a>
 </div>
 
 <div>
-  <h1 align="center">Hi 👋, I'm Rodrigo</h1>
-  <h3 align="center">I'm a technology enthusiast and currently pursuing a degree in software engineering.</h3>
+  <h1 align="center">Hi , I'm Rodrigo</h1>
+  <p style="text-align: justify;">I'm a technology enthusiast and currently pursuing a degree in Software Engineering. I'm actively seeking internship opportunities to gain practical experience and apply the skills I’ve been developing. My dedication to the field of programming is evident through my focus on backend development and data analysis, areas that captivate my interest the most. I have been honing my skills in these domains, complemented by my knowledge of Power BI, to provide insightful data visualizations and support decision-making processes. I am eager to contribute to a dynamic team and further my growth as a software engineer through hands-on experience and professional guidance.</p>
 </div>
 
-</br>
+---
 
 <div>
   <h3 align="left">Connect with me:</h3>
@@ -26,11 +27,11 @@
 - [Projeto desenvolvido em Python](https://github.com/RodrigoFSerafim/Projeto_Healthme_Python)
 ---
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigofserafim&show_icons=true&locale=en&theme=radical" alt="rodrigofserafim" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigofserafim&show_icons=true&locale=en&theme=tokyonight" alt="rodrigofserafim" /></p>
 </div>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofserafim&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofserafim&theme=tokyonight" />
   </a>
 </div>
 
