@@ -21,7 +21,7 @@
 
 ---
 
-## Portifolio:
+## Portfolio:
 ### Projeto Desenvolvido em colaboração com a HapVida:
 - [Projeto desenvolvido em Arduino](https://github.com/RodrigoFSerafim/Healthme-GS)
 - [Projeto desenvolvido em Python](https://github.com/RodrigoFSerafim/Projeto_Healthme_Python)
