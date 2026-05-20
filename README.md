@@ -28,14 +28,6 @@ My main interests are Data Analytics, Business Intelligence, Data Engineering, a
 - [Projeto desenvolvido em Arduino](https://github.com/RodrigoFSerafim/Healthme-GS)
 - [Projeto desenvolvido em Python](https://github.com/RodrigoFSerafim/Projeto_Healthme_Python)
 ---
-<div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigofserafim&show_icons=true&locale=en&theme=tokyonight" alt="rodrigofserafim" /></p>
-</div>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofserafim&theme=tokyonight" />
-  </a>
-</div>
 
 
 <div>
