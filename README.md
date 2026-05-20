@@ -6,7 +6,9 @@
 
 <div>
   <h1 align="center">Hi , I'm Rodrigo</h1>
-  <p style="text-align: justify;">I'm a technology enthusiast and currently pursuing a degree in Software Engineering. I'm actively seeking internship opportunities to gain practical experience and apply the skills I’ve been developing. My dedication to the field of programming is evident through my focus on backend development and data analysis, areas that captivate my interest the most. I have been honing my skills in these domains, complemented by my knowledge of Power BI, to provide insightful data visualizations and support decision-making processes. I am eager to contribute to a dynamic team and further my growth as a software engineer through hands-on experience and professional guidance.</p>
+  <p style="text-align: justify;">Data Analyst and Business Intelligence enthusiast currently pursuing a degree in Software Engineering. I have experience working with data analysis, SQL queries, dashboard development, and process automation, focusing on transforming data into strategic insights for decision-making.
+Currently working with tools such as BigQuery, MySQL, Looker Studio, Metabase, Python, and Google Cloud Platform (GCP), developing solutions for data visualization, reporting, and operational efficiency.
+My main interests are Data Analytics, Business Intelligence, Data Engineering, and backend development, always seeking to improve processes through technology and data-driven solutions.</p>
 </div>
 
 ---
